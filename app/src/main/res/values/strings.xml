@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DevProfile</string>
+    <string name="filler_text">place holder text</string>
+    <string name="Logo_text">DevSlops</string>
+</resources>
